@@ -7,7 +7,7 @@ The Dynamics Portfolio is a summary of 3 different tyre models, along with a cor
 
 The Regenerative Breaking is a Multisim Project where a Theoretical Regenerative Breaking system schematic is studied.
 
-The LMH/LMdH study is a comparison of Laptimes between these to competing categories around Le Mans circuit.
+The LMH - LMdH study is a comparison of Laptimes between these to competing categories around Le Mans circuit.
 
 
 All files are available on request
